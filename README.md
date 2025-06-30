@@ -117,6 +117,6 @@ docker-compose down -v
 * [joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui)
 * [Nginx Reverse Proxy](https://docs.nginx.com)
 
-```
+
 
 
