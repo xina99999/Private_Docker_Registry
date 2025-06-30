@@ -119,7 +119,4 @@ docker-compose down -v
 
 ```
 
----
 
-Bạn có thể lưu file này thành `README.md` trong thư mục dự án hoặc mình có thể giúp bạn upload tất cả lên một GitHub repo public/private tùy bạn chọn – bạn muốn không?
-```
